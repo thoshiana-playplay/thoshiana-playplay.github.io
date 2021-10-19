@@ -12,7 +12,7 @@ The start of something big. for the people. and most importantly for my future c
 # Run locally
 ## Server (Express)
 	1. Run: cd api && npm start
-
+  
 ## Client (React)
 	1. Run: cd client && npm start
 	2. Open http://localhost:3000/ in browser
